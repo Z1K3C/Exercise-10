@@ -1,0 +1,19 @@
+{
+  "name": "exercise_10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mssql": "^5.0.4",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
